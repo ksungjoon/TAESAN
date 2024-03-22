@@ -18,8 +18,8 @@
   * GitLab, Jira, Figma, Notion
   * Kakao Map API, Naver Clova OCR, Naver Cloud Platform SMS
 
-* 배포 환경
-  * URL : https://j9c211.p.ssafy.io
+* 기능 설명 영상
+  * URL :https://www.youtube.com/watch?v=8tFzdIb5lso
 
 
 ---
@@ -41,7 +41,7 @@
 
 📅 프로젝트 기간 : 2023.08.14 ~ 2023.10.06 (7주)
 
-## [태산:泰山](https://j9c211.p.ssafy.io/):credit_card:
+## [태산:泰山]:credit_card:
 소비 습관으로 이뤄내는 저축! :dollar:
 
 </div>
